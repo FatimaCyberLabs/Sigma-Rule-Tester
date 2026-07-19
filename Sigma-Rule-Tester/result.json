@@ -1,0 +1,14 @@
+[
+  {
+    "category": "rule_match:failed_ssh_login",
+    "value": "Jul 17 08:59:10 srv sshd: Failed password for root from 198.51.100.22",
+    "source": "examples\\sample.txt",
+    "severity": "medium"
+  },
+  {
+    "category": "rule_match:sudo_privilege_use",
+    "value": "Jul 17 09:00:00 srv sudo: fatima ran /bin/bash",
+    "source": "examples\\sample.txt",
+    "severity": "medium"
+  }
+]

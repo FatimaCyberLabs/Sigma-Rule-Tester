@@ -1,0 +1,2 @@
+Jul 17 08:59:10 srv sshd: Failed password for root from 198.51.100.22
+Jul 17 09:00:00 srv sudo: fatima ran /bin/bash
